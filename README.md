@@ -35,22 +35,20 @@ We can say from the data above that Employees who travel rarely have more attrit
    ![](images/fig4.png)
 Employees who left their jobs tend to have low average monthly income than those who stayed
 
-4.  Total of Years At Company of Employee
-      ![](images/fig6.png)
+
+ # Total of Years At Company of Employee
+   ![](images/fig6.png)
     
     According to this bar chart it is clear that most of newly employees quit ther jobs without having time to start (between 1 to 5 years ) . 
     Need to pay attention to the new people who just got the job.    
 
-
-5. The correlation between age and monthly income
-   
-  ![](images/fig5.png)
+ # The correlation between age and monthly income
+   ![](images/fig5.png)
 
    The correlation between age and monthly income is 0.5. it tells us that there are weak liner realationship through a firm linear rule.
    
-6. The correlation between years in current role and years since last promotion
-   
-    ![](images/fig7.png)
+ # The correlation between years in current role and years since last promotion
+   ![](images/fig7.png)
    
    The correlation between years in current role and years since last promotion is 0.55. Weak.
 
