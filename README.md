@@ -18,7 +18,7 @@ datasetId=2480666&sortBy=dateRun&tab=bookmarked
 #   After analyzing this data, we came to the folloing conclusions: 
 
 
- 1. Distribution of Employee Attrition in the Company
+!  Distribution of Employee Attrition in the Company
 
    ![](images/fig1.png)
 
