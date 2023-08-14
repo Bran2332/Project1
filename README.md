@@ -31,8 +31,8 @@ According the Pie Chart, we can say that out of 1470 employees, 16,1% of the emp
 We can say from the data above that Employees who travel rarely have more attrition rate followed by Employees who travel frequently. To reduce this attrition is to assign more travel ...
 
  
-3.  How monthly income effects Attrition
-     ![](images/fig4.png)
+ # How monthly income effects Attrition
+   ![](images/fig4.png)
 Employees who left their jobs tend to have low average monthly income than those who stayed
 
 4.  Total of Years At Company of Employee
