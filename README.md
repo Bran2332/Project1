@@ -15,17 +15,28 @@ Data_set from kaggle:
 https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction?
 datasetId=2480666&sortBy=dateRun&tab=bookmarked
 
-## After analyzing this data, we came to the folloing conclusions: 
-
-# Distribution of Employee Attrition in the Company
-
-![](images/fig1.png)
-
-According the Pie Chart, we can say that out of 1470 employees, 16,1% of the employees left their job with some reasons while other 83.9% of the employees preferred to stay at their jobs
+# After analyzing this data, we came to the folloing conclusions: 
 
 
+1. Distribution of Employee Attrition in the Company
+
+   ![](images/fig1.png)
+
+According the Pie Chart, we can say that out of 1470 employees, 16,1% of the employees left their job with some reasons while other 83.9% of the employees preferred to stay 
+
+2. How Business Travel effects Attrition
+
+    ![](images/fig2.png)
 
 
+We can say from the data above that Employees who travel rarely have more attrition rate followed by Employees who travel frequently.
+To reduce this attrition is to assign more travel ...
+
+3. How monthly income effects Attrition
+
+     ![](images/fig3.png)
+
+   Employees who left their jobs tend to have low average monthly income than those who stayed
 
 
 
