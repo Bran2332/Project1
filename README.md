@@ -12,8 +12,7 @@ Questions we must answer:
 3. Is commute contributing to attrition the most?
 
 Data_set from kaggle:
-https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction?
-datasetId=2480666&sortBy=dateRun&tab=bookmarked
+[This is a link to a  Data_set from kaggle](https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction?)
 
 #   After analyzing this data, we came to the folloing conclusions: 
 
