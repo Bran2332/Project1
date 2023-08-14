@@ -6,13 +6,22 @@
 
 Attrition, in Human Resource terminology, refers to the phenomenon of the employees leaving the company. Attrition in a company is usually measured with a metric called attrition rate, which simply measures the no of employees moving out of the company (voluntary resigning or laid off by the company). Attrition Rate is also referred as churn rate or turnover.
 
-Main Question: What factors drive employee attrition?
+Questions we must answer: 
+1. What factors drive employee attrition?
+2. What makes employees stay or  leave?
+3. Is commute contributing to attrition the most?
 
-Despite the fact as we all know High attrition is a cause of concern for a company as it presents a cost to the company. The company loses on the amount it spent to recruit and select these employees and to train them for their respective jobs.  Hence it becomes critical for a company to keep a tab on the attrition rate which down-sizes the employee base.
+we provide a Data_set from kaggle:
+https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction?
+datasetId=2480666&sortBy=dateRun&tab=bookmarked
 
- 1. What makes employees stay and leave?
- 2. Is commute contributing to attrition the most?
+## After analyzing this data, we came to the folloing conclusions: 
 
+# Distribution of Employee Attrition in the Company
+
+![](images/fig1.jpg)
+
+According the Pie Chart, we can say that out of 1470 employees, 16,1% of the employees left their job with some reasons while other 83.9% of the employees preferred to stay at their jobs
 
 
 
@@ -22,10 +31,7 @@ Despite the fact as we all know High attrition is a cause of concern for a compa
 
     
 
-# Resourses: 
-Data set is from Kaggle. HR Analytics – Employee attrition prediction 
-Data_set: https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction?
-datasetId=2480666&sortBy=dateRun&tab=bookmarked
+
 
  
 
