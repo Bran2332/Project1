@@ -27,7 +27,7 @@ According the Pie Chart, we can say that out of 1470 employees, 16,1% of the emp
 
  # How Business Travel effects Attrition
  
-    ![](images/fig2.png)
+   ![](images/fig2.png)
 
 We can say from the data above that Employees who travel rarely have more attrition rate followed by Employees who travel frequently. To reduce this attrition is to assign more travel ...
 
