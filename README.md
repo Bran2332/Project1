@@ -15,10 +15,10 @@ Data_set from kaggle:
 https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction?
 datasetId=2480666&sortBy=dateRun&tab=bookmarked
 
-# After analyzing this data, we came to the folloing conclusions: 
+#   After analyzing this data, we came to the folloing conclusions: 
 
 
-## Distribution of Employee Attrition in the Company
+##  Distribution of Employee Attrition in the Company
 
    ![](images/fig1.png)
 
