@@ -6,7 +6,7 @@ hi , guys ! If there is something to add , then  go head ...
 
 Attrition, in Human Resource terminology, refers to the phenomenon of the employees leaving the company. Attrition in a company is usually measured with a metric called attrition rate, which simply measures the no of employees moving out of the company (voluntary resigning or laid off by the company). Attrition Rate is also referred as churn rate or turnover.
 
-Questions we must answer: 
+   Questions we must answer: 
 1. What factors drive employee attrition?
 2. What makes employees stay or  leave?
 3. Is commute contributing to attrition the most?
@@ -14,7 +14,7 @@ Questions we must answer:
 Data_set from kaggle:
 [This is a link to a  Data_set from kaggle](https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction?)
 
-#   After analyzing this data, we came to the folloing conclusions: 
+#   After analyzing this data, we came to the following conclusions: 
 
 
 #  Distribution of Employee Attrition in the Company
