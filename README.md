@@ -18,27 +18,23 @@ datasetId=2480666&sortBy=dateRun&tab=bookmarked
 #   After analyzing this data, we came to the folloing conclusions: 
 
 
-##  Distribution of Employee Attrition in the Company
+ Distribution of Employee Attrition in the Company
 
    ![](images/fig1.png)
 
-    According the Pie Chart, we can say that out of 1470 employees, 16,1% of the employees left their job with some reasons while other 83.9% of the employees preferred 
-    to stay 
+# According the Pie Chart, we can say that out of 1470 employees, 16,1% of the employees left their job with some reasons while other 83.9% of the employees preferred to stay 
 
-##  How Business Travel effects Attrition
-
+ How Business Travel effects Attrition
     ![](images/fig2.png)
 
 
-    We can say from the data above that Employees who travel rarely have more attrition rate followed by Employees who travel frequently.
-    To reduce this attrition is to assign more travel ...
+#  We can say from the data above that Employees who travel rarely have more attrition rate followed by Employees who travel frequently. To reduce this attrition is to assign more travel ...
 
  
-##  How monthly income effects Attrition
-
+ How monthly income effects Attrition
      ![](images/fig4.png)
 
-    Employees who left their jobs tend to have low average monthly income than those who stayed
+ # Employees who left their jobs tend to have low average monthly income than those who stayed
 
 
 
