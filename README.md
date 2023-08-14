@@ -34,7 +34,7 @@ To reduce this attrition is to assign more travel ...
 
 3. How monthly income effects Attrition
 
-     ![](images/fig33.png)
+     ![](images/fig4.png)
 
   Employees who left their jobs tend to have low average monthly income than those who stayed
 
