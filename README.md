@@ -38,10 +38,9 @@ Employees who left their jobs tend to have low average monthly income than those
 
 4.  Total of Years At Company of Employee
       ![](images/fig6.png)
-    According to this bar chart it is clear that most of newly employees quit ther jobs without having time to start (between 1 to 5 years ) .
-    Need to pay attention the new people who just got the job.
-
-
+    
+According to this bar chart it is clear that most of newly employees quit ther jobs without having time to start (between 1 to 5 years ) . 
+Need to pay attention to the new people who just got the job.    
     
 
 
