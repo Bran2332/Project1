@@ -1,7 +1,4 @@
 # Project1
-
-# Project1
-
 # HR-Employee-Attrition-Analytics:
 
 ![](images/HR.jpg)
