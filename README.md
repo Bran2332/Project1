@@ -54,7 +54,7 @@ The correlation between age and monthly income is 0.5. it tells us that there ar
     ![](images/fig7.png)
    
 
-
+The correlation between years in current role and years since last promotion is 0.55. Weak.
 
  
 
