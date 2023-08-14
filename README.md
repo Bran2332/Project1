@@ -49,7 +49,7 @@ Need to pay attention to the new people who just got the job.
 
 The correlation between age and monthly income is 0.5. it tells us that there are weak liner realationship through a firm linear rule.
    
- 6.    
+
 
 
 
