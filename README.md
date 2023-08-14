@@ -33,7 +33,8 @@ datasetId=2480666&sortBy=dateRun&tab=bookmarked
     We can say from the data above that Employees who travel rarely have more attrition rate followed by Employees who travel frequently.
     To reduce this attrition is to assign more travel ...
 
-3. How monthly income effects Attrition
+ 
+##  How monthly income effects Attrition
 
      ![](images/fig4.png)
 
