@@ -47,14 +47,13 @@ Need to pay attention to the new people who just got the job.
    
   ![](images/fig5.png)
 
-The correlation between age and monthly income is 0.5. it tells us that there are weak liner realationship through a firm linear rule.
+   The correlation between age and monthly income is 0.5. it tells us that there are weak liner realationship through a firm linear rule.
    
 6. The correlation between years in current role and years since last promotion
    
     ![](images/fig7.png)
    
-
-The correlation between years in current role and years since last promotion is 0.55. Weak.
+   The correlation between years in current role and years since last promotion is 0.55. Weak.
 
  
 
