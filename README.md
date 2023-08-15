@@ -19,7 +19,7 @@ Data_set from kaggle:
 
 #  Distribution of Employee Attrition in the Company
 
-   ![](images/fig1.png)
+   ![](images/fig.png)
 
 According the Pie Chart, we can say that out of 1470 employees, 16,1% of the employees left their job with some reasons while other 83.9% of the employees preferred to stay 
 
