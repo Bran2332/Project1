@@ -65,7 +65,6 @@ Single employees have the highest rate of attrition in the Marital Status catego
 
    # Attrition rate by Job Satisfaction
    ![](images/graph.png)
-   This graph of Attrition by Job Satisfaction mainly visualizes that the employee attrition rate stabilizes between ages 35 to 45. It also depicts employees’ who are 0 through 45 years old tend to answer job .  The line for this age group lingers around 2.73 to 2.74 Its not till age 45 and over does job satisfaction rate show a lower trend.
-    Attrition rate is not supported by the Job Satisfaction survey questions. Job satisfaction survey questions does not assist when determining when an employee will leave your company.
-
+This graph of Attrition by Job Satisfaction mainly visualizes that the employee attrition rate stabilizes between ages 35 to 45. It also depicts employees’ who are 0 through 45 years old tend to answer job .  The line for this age group lingers around 2.73 to 2.74 . Its not till age 45 and over does job satisfaction rate show a lower trend.
+   
 
