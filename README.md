@@ -44,22 +44,18 @@ According the Pie Chart, we can say that out of 1470 employees, 16,1% of the emp
 
 Single employees have the highest rate of attrition in the Marital Status category (left). At the end of the spectrum, a divorced employee will most likely stay at a job. The pie chart also points out, the Married employee will also likely engage in attrition more than a divorced employee but less frequently than the Single employee. From the above pie chart on the left, we can see the attrition rate based on Marital status of employees from highest to lowest as Singles, Married and then Divorced employees. 
 
- # How Business Travel effects Attrition
-   ![](images/fig2.png)
-
-We can say from the data above that Employees who travel rarely have more attrition rate followed by Employees who travel frequently. To reduce this attrition is to assign more travel ...
-
- 
- # How monthly income effects Attrition
-   ![](images/fig4.png)
-Employees who left their jobs tend to have low average monthly income than those who stayed
-
 
  # Total of Years At Company of Employee
    ![](images/fig6.png)
     
-    According to this bar chart it is clear that most of newly employees quit ther jobs without having time to start (between 1 to 5 years ) . 
-    Need to pay attention to the new people who just got the job.    
+   The Total of Years at the company bar chart visualizes when employees are highly likely to leave their present company. The data shows after 10 years of tenure an employee will stay at their present employer but more importantly, employees leave at a higher rate when tenure is below 11 years. 
+
+ # How monthly income effects Attrition
+   ![](images/fig4.png)
+Employees who left their jobs tend to have low average monthly income than those who stayed
+
+# Attrition rate by Department 
+  ![](images/fig5.png)
 
  # The correlation between age and monthly income
    ![](images/fig5.png)
