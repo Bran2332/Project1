@@ -62,3 +62,6 @@ Single employees have the highest rate of attrition in the Marital Status catego
    This regression plot shows the low income is a main driver of attrition. 
 
    #    ![](images/corr.png)
+
+   # Attrition rate by Job Satisfaction
+   ![](images/graph.png)
