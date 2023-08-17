@@ -50,10 +50,9 @@ Single employees have the highest rate of attrition in the Marital Status catego
     
    The Total of Years at the company bar chart visualizes when employees are highly likely to leave their present company. The data shows after 10 years of tenure an employee will stay at their present employer but more importantly, employees leave at a higher rate when tenure is below 11 years. 
 
- # How monthly income effects Attrition
+ # Attrition rate and mobthly income by department
    ![](images/fig4.png)
 
-# Attrition rate by Department 
   ![](images/fig2:.png)
 
   The paired visuals tie together monthly income and attrition by department. The department with the MOST attrition of employees is in Research and Development and the box plot points to low income as the reason. 
