@@ -52,13 +52,11 @@ Single employees have the highest rate of attrition in the Marital Status catego
 
  # How monthly income effects Attrition
    ![](images/fig4.png)
-Employees who left their jobs tend to have low average monthly income than those who stayed
 
 # Attrition rate by Department 
-  ![](images/fig5.png)
+  ![](images/fig2:.png)
 
- # The correlation between age and monthly income
-   ![](images/fig5.png)
+  The paired visuals tie together monthly income and attrition by department. The department with the MOST attrition of employees is in Research and Development and the box plot points to low income as the reason. 
 
    The correlation between age and monthly income is 0.5. it tells us that there are weak liner realationship through a firm linear rule.
    
