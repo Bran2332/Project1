@@ -57,9 +57,8 @@ Single employees have the highest rate of attrition in the Marital Status catego
 
   The paired visuals tie together monthly income and attrition by department. The department with the MOST attrition of employees is in Research and Development and the box plot points to low income as the reason. 
 
-   The correlation between age and monthly income is 0.5. it tells us that there are weak liner realationship through a firm linear rule.
    
- # The correlation between years in current role and years since last promotion
+ # Population with attrition 
    ![](images/fig7.png)
    
    The correlation between years in current role and years since last promotion is 0.55. Weak.
