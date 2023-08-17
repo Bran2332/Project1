@@ -64,4 +64,4 @@ Single employees have the highest rate of attrition in the Marital Status catego
    #    ![](images/corr.png)
 
    # Attrition rate by Job Satisfaction
-      ![](images/graph.png)
+   ![](images/graph.png)
