@@ -59,9 +59,6 @@ Single employees have the highest rate of attrition in the Marital Status catego
 
    
  # Population with attrition 
-   ![](images/fig7.png)
-   
-   The correlation between years in current role and years since last promotion is 0.55. Weak.
-
- 
+   ![](images/popul.png)
+   This regression plot shows the low income is a main driver of attrition. ![image](https://github.com/Bran2332/Project1/assets/137449592/cdc7f125-5ca1-4cef-8c43-536f9fc7c042)
 
