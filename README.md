@@ -58,10 +58,7 @@ Single employees have the highest rate of attrition in the Marital Status catego
   The paired visuals tie together monthly income and attrition by department. The department with the MOST attrition of employees is in Research and Development and the box plot points to low income as the reason. 
 
    
- # Population with attrition 
-   ![](images/fig7.png)
-   
-   The correlation between years in current role and years since last promotion is 0.55. Weak.
+   ![](images/popul.png)
+   This regression plot shows the low income is a main driver of attrition. 
 
- 
-
+   #    ![](images/corr.png)
