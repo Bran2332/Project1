@@ -17,10 +17,12 @@ Data Sourse from kaggle:
 
 #   Group Development Process
 
-* Read data sources for HR Employee Attrition Analytics via Kaggle
-* Creation of data frames 
-* Creation of charts (pie charts, bar charts, scatter plots, line graphs, box plots)
-* Statistical analysis (correlation, linear regression)
+•	Read data sources for HR Employee Attrition Analytics via Kaggle
+•	Creation of data frames 
+•	Creation of charts (pie charts, bar charts, scatter plots, line graphs, box plots)
+•	Statistical analysis (correlation, linear regression)
+
+
 
 # Conclusion: 
 
