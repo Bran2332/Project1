@@ -39,6 +39,7 @@ Data Sourse from kaggle:
 According the Pie Chart, we can say that out of 1470 employees, 16,1% of the employees left their job with some reasons while other 83.9% of the employees preferred to stay 
 
 # Distribution of Employee by Marital Status
+
  ![](images/fig:1.jpg)
 
 Single employees have the highest rate of attrition in the Marital Status category (left). At the end of the spectrum, a divorced employee will most likely stay at a job. The pie chart also points out, the Married employee will also likely engage in attrition more than a divorced employee but less frequently than the Single employee. From the above pie chart on the left, we can see the attrition rate based on Marital status of employees from highest to lowest as Singles, Married and then Divorced employees. 
